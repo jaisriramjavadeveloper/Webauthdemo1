@@ -8,16 +8,5 @@
 </head>
 <body>
 
-<h1>Welcome to web application automation testing with cypress</h1>
-
-
-<h1> 
-<a href='login'>login</a>
-</h1>
-<h1>
-<a href='register'>Register</a>
-</h1>
-
-
 </body>
 </html>
